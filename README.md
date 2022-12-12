@@ -6,3 +6,7 @@
 3、git status
 4、git add a.txt
 5、git status
+6、git commit -m "[test] test commit"
+7、git log
+8、git push origin HEAD:master
+9、git log
