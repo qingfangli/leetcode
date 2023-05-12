@@ -24,8 +24,8 @@ class Solution:
         return nums1
 
 nums1 = input()
+m = int(input())
 nums2 = input()
-m = input()
-n = input()
-num1 = Solution.merge(nums1,nums2,m,n)
+n = int(input())
+num1 = Solution.merge(nums1,m,nums2,n)
 print(num1)
